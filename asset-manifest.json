@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/porfolio-react/static/css/main.58462fbc.css",
-    "main.js": "/porfolio-react/static/js/main.83bd4310.js",
+    "main.js": "/porfolio-react/static/js/main.3c0f8fa7.js",
     "static/media/u-said-it-v13-1167.mp3": "/porfolio-react/static/media/u-said-it-v13-1167.becd66496be9c81ddf9d.mp3",
     "static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.jpg": "/porfolio-react/static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.8ca90014fb6ce5980110.jpg",
     "static/media/profile-img.png": "/porfolio-react/static/media/profile-img.0328cc9c9a4c34123234.png",
     "static/media/spaceman.png": "/porfolio-react/static/media/spaceman.5ec7fcfa9a803ead726c.png",
     "index.html": "/porfolio-react/index.html",
     "main.58462fbc.css.map": "/porfolio-react/static/css/main.58462fbc.css.map",
-    "main.83bd4310.js.map": "/porfolio-react/static/js/main.83bd4310.js.map"
+    "main.3c0f8fa7.js.map": "/porfolio-react/static/js/main.3c0f8fa7.js.map"
   },
   "entrypoints": [
     "static/css/main.58462fbc.css",
-    "static/js/main.83bd4310.js"
+    "static/js/main.3c0f8fa7.js"
   ]
 }
