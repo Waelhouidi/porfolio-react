@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Waelhouidi/porfolio-react.git/static/css/main.58462fbc.css",
-    "main.js": "/Waelhouidi/porfolio-react.git/static/js/main.09d52f6d.js",
-    "static/media/u-said-it-v13-1167.mp3": "/Waelhouidi/porfolio-react.git/static/media/u-said-it-v13-1167.becd66496be9c81ddf9d.mp3",
-    "static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.jpg": "/Waelhouidi/porfolio-react.git/static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.8ca90014fb6ce5980110.jpg",
-    "static/media/profile-img.png": "/Waelhouidi/porfolio-react.git/static/media/profile-img.0328cc9c9a4c34123234.png",
-    "static/media/spaceman.png": "/Waelhouidi/porfolio-react.git/static/media/spaceman.5ec7fcfa9a803ead726c.png",
-    "index.html": "/Waelhouidi/porfolio-react.git/index.html",
-    "main.58462fbc.css.map": "/Waelhouidi/porfolio-react.git/static/css/main.58462fbc.css.map",
-    "main.09d52f6d.js.map": "/Waelhouidi/porfolio-react.git/static/js/main.09d52f6d.js.map"
+    "main.css": "/portfolio-react/static/css/main.58462fbc.css",
+    "main.js": "/portfolio-react/static/js/main.f9e9a8b7.js",
+    "static/media/u-said-it-v13-1167.mp3": "/portfolio-react/static/media/u-said-it-v13-1167.becd66496be9c81ddf9d.mp3",
+    "static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.jpg": "/portfolio-react/static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.8ca90014fb6ce5980110.jpg",
+    "static/media/profile-img.png": "/portfolio-react/static/media/profile-img.0328cc9c9a4c34123234.png",
+    "static/media/spaceman.png": "/portfolio-react/static/media/spaceman.5ec7fcfa9a803ead726c.png",
+    "index.html": "/portfolio-react/index.html",
+    "main.58462fbc.css.map": "/portfolio-react/static/css/main.58462fbc.css.map",
+    "main.f9e9a8b7.js.map": "/portfolio-react/static/js/main.f9e9a8b7.js.map"
   },
   "entrypoints": [
     "static/css/main.58462fbc.css",
-    "static/js/main.09d52f6d.js"
+    "static/js/main.f9e9a8b7.js"
   ]
 }
